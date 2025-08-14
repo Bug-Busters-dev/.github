@@ -1,4 +1,4 @@
-# Bug Busters
+# BugBusters
 
 We’re a group of people who love solving **BWINF** problems and building projects together. Most of our time goes into BWINF, but we also have some fun side projects—like **FriendBeads**.  
 
