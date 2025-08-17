@@ -23,7 +23,8 @@ Unless otherwise noted, our code is under the MIT License.
 ## Contact
 
 - GitHub: [@BugBusters](https://github.com/Bug-Busters-dev)
-- Discord: [@Apfelholz](https://discord.com)
+- Discord:
+  <iframe src="https://discord.com/widget?id=1277341322784669749&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe> 
 
 
 <sub>*The Dilthey SV helps us recruit new members for our team.*
