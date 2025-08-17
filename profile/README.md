@@ -22,7 +22,7 @@ Unless otherwise noted, our code is under the MIT License.
 
 ## Contact
 
-![Discord](https://img.shields.io/discord/1277341322784669749?logo=discord&label=Discord)
+[![Discord](https://img.shields.io/discord/1277341322784669749?logo=discord&label=Discord)](https://discord.gg/af3afXUKmy)
 
 
 <sub>*The Dilthey SV helps us recruit new members for our team.*
