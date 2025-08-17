@@ -23,7 +23,7 @@ Unless otherwise noted, our code is under the MIT License.
 ## Contact
 
 - GitHub: [@BugBusters](https://github.com/Bug-Busters-dev)
-- [Discord](https://img.shields.io/discord/1277341322784669749?logo=discord&label=Discord) 
+- ![Discord](https://img.shields.io/discord/1277341322784669749?logo=discord&label=Discord)
 
 
 <sub>*The Dilthey SV helps us recruit new members for our team.*
